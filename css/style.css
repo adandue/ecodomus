@@ -264,7 +264,7 @@ ol,ul
     }
     .hero
     {
-        height: 700px;
+        height: 600px;
         grid-template-columns: 1fr;
         grid-template-areas: "hero-left" 
         "hero-right"; 
@@ -278,7 +278,7 @@ ol,ul
     }
     .domotica
     {
-        height: 700px;
+        height: 580px;
         grid-template-columns: 1fr;
         grid-template-areas: "domotica-left"
         "domotica-right";
